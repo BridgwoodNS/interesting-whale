@@ -5,7 +5,7 @@
         "type": "header",
         "title": "Fjord",
         "tagline": "Ryan Teaches Code",
-        "logo_img": "/images/Screenshot 2021-06-27 at 19-30-12 Free Logo Maker - Create your own logo in minutes.png",
+        "logo_img": "/images/logo.svg",
         "logo_img_alt": "Fjord Logo",
         "background_img": "/images/awwwwwwww.jpg",
         "has_nav": true,
