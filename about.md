@@ -33,9 +33,9 @@ layout: page
 ---
 Welcome to my mock website about learning to code like a capybara... nevermind
 
-**This is a website about random animals I like! **
+**\*\*This is a website about random animals I like! \*\***
 
-****
+***
 
 Join me on this exploration into all things:
 
@@ -47,11 +47,7 @@ Join me on this exploration into all things:
 
 *   And More...
 
-
-
-Full disclosure - this website is really me trying out some static site generators(i.e. Jekyll)  & acomgpyaning CMS(Netlify-CMS). 
-
-
+Full disclosure - this website is really me trying out some static site generators(i.e. Jekyll)  & acomgpyaning CMS(Netlify-CMS).
 
 *Thank You for reading!*
 
