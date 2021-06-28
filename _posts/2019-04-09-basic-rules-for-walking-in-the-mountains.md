@@ -42,6 +42,7 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 layout: post
+hide_header: true
 ---
 
 ![Hiking](/images/2.jpg)
