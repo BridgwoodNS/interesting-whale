@@ -1,5 +1,5 @@
 ---
-title: 'Project: Movie Selector'
+title: I Like Foxes
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
