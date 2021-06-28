@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work
+subtitle: My name is Ryan...
 img_path: /images/20200822_125848.jpg
 seo:
   type: stackbit_page_meta
