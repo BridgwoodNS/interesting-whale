@@ -7,7 +7,15 @@ date: '2020-01-11'
 thumb_img_path: images/10.jpg
 thumb_img_alt: A red fox sitting on a meadow
 content_img_path: images/10.jpg
-excerpt: Lorem
+excerpt: |-
+  Rooster sheep. Sage mower goat, raccoons rhubarb outhouse a, apples 
+  berries corn. Lamb pig rooster sheep. House hen chinchillas in barn 
+  livestock cat hogs chicks trucks. In the straw rain barrels. 
+  Veterinarian at Seeder eggs with watermelon ostriches. Mallet herbs 
+  basil nest, in welding equipment pens quail. Onion organic oranges and 
+  purr ducks canning owls at a squeal. Forage Harvester, bean and Silage 
+  dump, cultivator brussel sprouts harrows, celery dread with kale augers 
+  harrows.
 seo:
   type: stackbit_page_meta
   title: Fox Village In Japan
