@@ -1,7 +1,7 @@
 ---
 title: Home
 has_more_link: true
-more_link_text: Let's Learn
+more_link_text: Keep Reading
 seo:
   type: stackbit_page_meta
   title: Stackbit Fjord Theme
