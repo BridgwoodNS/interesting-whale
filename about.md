@@ -31,12 +31,28 @@ seo:
       relativeUrl: true
 layout: page
 ---
-Welcome to my mock website about \<b> coding \<b>
+Welcome to my mock website about learning to code like a capybara... nevermind
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+**This is a website about random animals I like! **
 
-> The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+****
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+Join me on this exploration into all things:
+
+*   Capybaras
+
+*   Foxes
+
+*   Sheep
+
+*   And More...
+
+
+
+Full disclosure - this website is really me trying out some static site generators(i.e. Jekyll)  & acomgpyaning CMS(Netlify-CMS). 
+
+
 
 *Thank You for reading!*
+
+*Ryan*
