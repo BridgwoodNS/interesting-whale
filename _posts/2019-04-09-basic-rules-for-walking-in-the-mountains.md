@@ -44,27 +44,38 @@ seo:
 layout: post
 hide_header: true
 ---
-
-
 ![](/\_static/app-assets/pexels-richard-segal-1618606.jpg)
 
-Turtles are the only vertebrates with a [complete shell](https://en.wikipedia.org/wiki/Turtle_shell).  It is formed mainly of bone; the upper part is the domed carapace, 
+Turtles are the only vertebrates with a [complete shell](https://en.wikipedia.org/wiki/Turtle_shell).  It is formed mainly of bone; the upper part is the domed carapace,
 while the underside is the flatter plastron. Its outer surface is covered in scales made of [keratin](https://en.wikipedia.org/wiki/Keratin),
- the material of hair and fingernails. The carapace bones develop from ribs which grow sideways and develop broad flanges that join up to cover
- the body. Many turtles migrate short distances seasonally; the [sea turtles](https://en.wikipedia.org/wiki/Sea_turtle) are the only reptiles that migrate long distances to lay their eggs on a
- favored beach, sometimes traveling thousands of kilometers to feed before returning to the beach where they were born. It is not known how 
+the material of hair and fingernails. The carapace bones develop from ribs which grow sideways and develop broad flanges that join up to cover
+the body. Many turtles migrate short distances seasonally; the [sea turtles](https://en.wikipedia.org/wiki/Sea_turtle) are the only reptiles that migrate long distances to lay their eggs on a
+favored beach, sometimes traveling thousands of kilometers to feed before returning to the beach where they were born. It is not known how
 they [navigate](https://en.wikipedia.org/wiki/Animal_navigation) though they do have a magnetic sense.
-
 
 ## Sea Turtles
 
-Frequently nowadays long distance hikes (walking tours) are undertaken along long distance paths, including the National Trails in England and Wales, the National Trail System in the USA and The Grande Randonnée (France), Grote Routepaden, or Lange-afstand-wandelpaden (Holland), Grande Rota (Portugal), Gran Recorrido (Spain) is a network of long-distance footpaths in Europe, mostly in France, Belgium, the Netherlands and Spain. There are extensive networks in other European countries of long distance trails, as well as in Canada, Australia, New Zealand, Nepal, and to a lesser extent other Asiatic countries, like Turkey, Israel, and Jordan. In the Alps of Austria, Slovenia, Switzerland, Germany, France, and Italy walking tours are often made from 'hut-to-hut', using an extensive system of mountain huts.
+Lorem ipsum dolor 
+sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt 
+ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
+exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non 
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-In the late 20th-century there has been a proliferation of official and unofficial long distance routes, which mean that hikers now are more likely to refer to using a long distance way (Britain), trail (USA), The Grande Randonnée (France), etc., than setting out on a walking tour. Early examples of long distance paths, include the Appalachian Trail in the USA and the Pennine Way in Britain. Pilgrimage routes are now treated, by some walkers, as long distance routes, and the route taken by the British National Trail the North Downs Way closely follows that of the Pilgrims' Way to Canterbury. Hiking times can be estimated by Naismith's rule or Tobler's hiking function.
+
 
 ## Other Turtles
 
-The equipment required for hiking depends on the length of the hike, but day hikers generally carry at least water, food, a map, and rain-proof gear. Hikers usually wear sturdy hiking boots for mountain walking and backpacking, as protection from the rough terrain, as well as providing increased stability. The Mountaineers club recommends a list of "Ten Essentials" equipment for hiking, including a compass, sunglasses, sunscreen, a flashlight, a first aid kit, a fire starter, and a knife. Other groups recommend items such as hat, gloves, insect repellent, and an emergency blanket. A GPS navigation device can also be helpful and route cards may be used as a guide.
+Lorem ipsum dolor 
+sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt 
+ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
+exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non 
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
 
 > I'm a turtle.... glub glub
 
