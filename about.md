@@ -31,7 +31,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-Welcome to my mock website about \<del> coding \</del>
+Welcome to my mock website about \<b> coding \<b>
 
 His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
 
